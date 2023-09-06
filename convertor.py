@@ -82,7 +82,7 @@ def main(folder_path, label):
             add_label_to_pdf(pdf_path, label)
 
 # Specify the source folder and label
-folder_path = r'C:\Users\Mustafa\Desktop\SLH\Vinit\ConvertAllAtOnce'
+folder_path = r'C:\Users\Mustafa\Desktop\SLH\LightVendor\ConvertAllAtOnce'
 label = 'Saifee Light House - +918888076752'
 
 # Start the labeling process
